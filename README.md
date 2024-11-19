@@ -29,6 +29,5 @@ I'm playing the horn and trumpet in the following bands:
 ## 📫 How to reach me
 
 - [Blog](https://frokonet.ch)
-- [Twitter / X](https://x.com/froko)
 
 See you somewhere!
