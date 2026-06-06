@@ -16,7 +16,7 @@
 - [simple-domain - A framework which supports DDD, CQRS & EventSourcing](https://github.com/froko/simple-domain)
 - [create-vite-ts - A CLI to bootstrap new vite-based TypeScript projects.](https://github.com/froko/create-vite-ts)
 - [nx-monorepo - A solid starting point for your new Nx based monorepo.](https://github.com/froko/nx-monorepo)
-- [dotnet-monorepo - A solid starting point for your new Nx based .NET monorepo.](https://github.com/froko/dotnet-monorepo)
+- [nx-dotnet-monorepo - A solid starting point for your new Nx based .NET monorepo.](https://github.com/froko/nx-dotnet-monorepo)
 
 ## 🎺 Music & Bands
 
@@ -29,6 +29,5 @@ I'm playing the horn and trumpet in the following bands:
 ## 📫 How to reach me
 
 - [Blog](https://frokonet.ch)
-- [Twitter / X](https://x.com/froko)
 
 See you somewhere!
